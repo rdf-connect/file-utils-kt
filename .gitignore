@@ -3,6 +3,7 @@ build.gradle.kts
 gradle
 gradlew
 gradlew.bat
+.env
 
 .gradle
 build/
