@@ -1,5 +1,4 @@
 .kotlin
-build.gradle.kts
 gradle
 gradlew
 gradlew.bat
