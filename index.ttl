@@ -20,13 +20,13 @@
 rdfc:FileReaderKT
   a rdfc:Processor ;
   rdfc:target rdfc:JVMRunner ;
-  rdfc:entrypoint <./build/libs/file-utils-kt-1.0-SNAPSHOT.jar> ;
+  rdfc:entrypoint <./build/libs/file-utils-kt-0.0.1.jar> ;
   rdfc:metadata "class: technology.idlab.fileutils.FileReader" .
 
 rdfc:FileWriterKT
   a rdfc:Processor ;
   rdfc:target rdfc:JVMRunner ;
-  rdfc:entrypoint <./build/libs/file-utils-kt-1.0-SNAPSHOT.jar> ;
+  rdfc:entrypoint <./build/libs/file-utils-kt-0.0.1.jar> ;
   rdfc:metadata "class: technology.idlab.fileutils.FileWriter" .
 
 []
